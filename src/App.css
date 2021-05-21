@@ -168,6 +168,10 @@ button {
   word-wrap: break-word;
 }
 
+.results .resultsContainer .correctResults .row {
+  background: #28b485;
+}
+
 .results .resultsContainer .correctResults .row:not(:last-of-type),
 .results .resultsContainer .wrongResults .row:not(:last-of-type) {
   margin-bottom: 10px;
