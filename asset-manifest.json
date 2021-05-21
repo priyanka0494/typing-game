@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/typing-game/static/css/main.f6d5a74e.chunk.css",
+    "main.js": "/typing-game/static/js/main.4d2efb21.chunk.js",
+    "main.js.map": "/typing-game/static/js/main.4d2efb21.chunk.js.map",
+    "runtime-main.js": "/typing-game/static/js/runtime-main.a1813a1c.js",
+    "runtime-main.js.map": "/typing-game/static/js/runtime-main.a1813a1c.js.map",
+    "static/js/2.f3a974a9.chunk.js": "/typing-game/static/js/2.f3a974a9.chunk.js",
+    "static/js/2.f3a974a9.chunk.js.map": "/typing-game/static/js/2.f3a974a9.chunk.js.map",
+    "index.html": "/typing-game/index.html",
+    "static/css/main.f6d5a74e.chunk.css.map": "/typing-game/static/css/main.f6d5a74e.chunk.css.map",
+    "static/js/2.f3a974a9.chunk.js.LICENSE.txt": "/typing-game/static/js/2.f3a974a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1813a1c.js",
+    "static/js/2.f3a974a9.chunk.js",
+    "static/css/main.f6d5a74e.chunk.css",
+    "static/js/main.4d2efb21.chunk.js"
+  ]
+}
